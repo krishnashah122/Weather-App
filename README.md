@@ -2,6 +2,14 @@
 
 A simple weather application built using Node.js, Express, and the OpenWeather API. This app allows users to enter a location and retrieve current weather information.
 
+## Screenshots
+
+### Screenshot 1
+![Weather App Screenshot 1](https://github.com/krishnashah122/Weather-App/assets/64410232/d912c588-8742-4283-ac11-f7f6f98336e0)
+
+### Screenshot 2
+![Weather App Screenshot 2](https://github.com/krishnashah122/Weather-App/assets/64410232/59af49f4-f5ae-4386-879b-48c2846b3f51)
+
 ## Features
 
 - User-friendly interface for entering a location.
